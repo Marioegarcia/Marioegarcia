@@ -13,42 +13,87 @@ Soy un Desarrollador de Software Full Stack apasionado por crear soluciones web 
 
 ## 🛠️ Tecnologías que manejo
 
+Lamento que las imágenes sigan apareciendo verticalmente. Esto se debe a la forma en que el HTML y el CSS (que GitHub utiliza para renderizar Markdown) manejan las imágenes dentro del flujo del documento.
+
+Para forzar que las imágenes se muestren en horizontal, podemos usar HTML en línea dentro del Markdown para controlar el estilo de visualización.
+
+Aquí tienes el código modificado con estilos en línea para mostrar las imágenes horizontalmente:
+
+Markdown
+
+# ¡Hola! Soy Mario Ezequiel García Huerta 👋
+
+Soy un Desarrollador de Software Full Stack apasionado por crear soluciones web y móviles innovadoras. Mi especialidad es el ecosistema JavaScript, con un fuerte enfoque en React Native y Node.js/NestJS.
+
+## 🚀 ¿Qué puedo aportar?
+
+* **Desarrollo Full Stack:** Experiencia en el desarrollo tanto de frontend (React Native, React.js) como de backend (Node.js, NestJS).
+* **Especialización Móvil:** Amplia experiencia en el desarrollo de aplicaciones móviles multiplataforma con React Native (iOS/Android).
+* **Backend Robusto:** Desarrollo de APIs RESTful y soluciones de backend escalables con Node.js y NestJS.
+* **Eficiencia Comprobada:** Capacidad demostrada para reducir los tiempos de desarrollo en un 30% mediante la implementación de arquitecturas escalables y reutilizables. [cite: 1, 2, 3]
+* **Compromiso con la Calidad:** Enfoque en la entrega de productos de alta calidad que superan las expectativas del usuario. [cite: 3]
+* **Aprendizaje Continuo:** Soy un profesional autodidacta, comprometido con mantenerme al día con las últimas tecnologías y tendencias. [cite: 2]
+
+## 🛠️ Tecnologías que manejo
+
 **Frontend:**
 
-* React Native (iOS/Android)
-* React.js
-* Redux, Context API
-* Styled Components
+<div style="display: flex; flex-wrap: wrap;">
+   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" style="margin-right: 5px; margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" style="margin-right: 5px; margin-bottom: 5px;"/>
+ <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" style="margin-right: 5px; margin-bottom: 5px;"/>
+ <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white&logo=zustand" alt="Zustand" style="margin-right: 5px; margin-bottom: 5px;"/>
+ <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" style="margin-right: 5px; margin-bottom: 5px;"/>
+
+</div>
+
+<br>
 
 **Backend:**
 
-* Node.js
-* Nest.js
-* Express.js
-* APIs RESTful
-* Websockets
-* Autenticación JWT
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" style="margin-right: 5px; margin-bottom: 5px;"/>
+</div>
+
+<br>
 
 **Bases de Datos:**
 
-* MongoDB
-* PostgreSQL
-* SQLite
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="margin-right: 5px; margin-bottom: 5px;"/>
+</div>
+
+<br>
 
 **Pasarelas de Pago:**
 
-* Stripe
-* Conekta
-* PayPal
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/Conekta-00A651?style=for-the-badge&logo=conekta&logoColor=white" alt="Conekta" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" style="margin-right: 5px; margin-bottom: 5px;"/>
+</div>
+
+<br>
 
 **DevOps y Herramientas:**
 
-* Git/GitHub
-* Docker
-* Firebase
-* Digital Ocean
-* Hostinger
-* Nginx
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Digital Ocean" style="margin-right: 5px; margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" style="margin-right: 5px; margin-bottom: 5px;"/>
+</div>
+
+<br>
+
+
 
 ## 💼 Experiencia Profesional
 
@@ -95,10 +140,5 @@ Soy un Desarrollador de Software Full Stack apasionado por crear soluciones web 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marioegarcia&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🛠️ Tecnologías que manejo
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
