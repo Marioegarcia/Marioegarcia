@@ -1,28 +1,5 @@
 # ¡Hola! Soy Mario Ezequiel García Huerta 👋
 
-Soy un Desarrollador de Software Full Stack apasionado por crear soluciones web y móviles innovadoras. Mi especialidad es el ecosistema JavaScript, con un fuerte enfoque en React Native y Node.js/NestJS. [cite: 1, 12]
-
-## 🚀 ¿Qué puedo aportar?
-
-* **Desarrollo Full Stack:** Experiencia en el desarrollo tanto de frontend (React Native, React.js) como de backend (Node.js, NestJS). 
-* **Especialización Móvil:** Amplia experiencia en el desarrollo de aplicaciones móviles multiplataforma con React Native (iOS/Android). 
-* **Backend Robusto:** Desarrollo de APIs RESTful y soluciones de backend escalables con Node.js y NestJS. 
-* **Eficiencia Comprobada:** Capacidad demostrada para reducir los tiempos de desarrollo en un 30% mediante la implementación de arquitecturas escalables y reutilizables. 
-* **Compromiso con la Calidad:** Enfoque en la entrega de productos de alta calidad que superan las expectativas del usuario. 
-* **Aprendizaje Continuo:** Soy un profesional autodidacta, comprometido con mantenerme al día con las últimas tecnologías y tendencias. 
-
-## 🛠️ Tecnologías que manejo
-
-Lamento que las imágenes sigan apareciendo verticalmente. Esto se debe a la forma en que el HTML y el CSS (que GitHub utiliza para renderizar Markdown) manejan las imágenes dentro del flujo del documento.
-
-Para forzar que las imágenes se muestren en horizontal, podemos usar HTML en línea dentro del Markdown para controlar el estilo de visualización.
-
-Aquí tienes el código modificado con estilos en línea para mostrar las imágenes horizontalmente:
-
-Markdown
-
-# ¡Hola! Soy Mario Ezequiel García Huerta 👋
-
 Soy un Desarrollador de Software Full Stack apasionado por crear soluciones web y móviles innovadoras. Mi especialidad es el ecosistema JavaScript, con un fuerte enfoque en React Native y Node.js/NestJS.
 
 ## 🚀 ¿Qué puedo aportar?
@@ -30,9 +7,9 @@ Soy un Desarrollador de Software Full Stack apasionado por crear soluciones web 
 * **Desarrollo Full Stack:** Experiencia en el desarrollo tanto de frontend (React Native, React.js) como de backend (Node.js, NestJS).
 * **Especialización Móvil:** Amplia experiencia en el desarrollo de aplicaciones móviles multiplataforma con React Native (iOS/Android).
 * **Backend Robusto:** Desarrollo de APIs RESTful y soluciones de backend escalables con Node.js y NestJS.
-* **Eficiencia Comprobada:** Capacidad demostrada para reducir los tiempos de desarrollo en un 30% mediante la implementación de arquitecturas escalables y reutilizables. [cite: 1, 2, 3]
-* **Compromiso con la Calidad:** Enfoque en la entrega de productos de alta calidad que superan las expectativas del usuario. [cite: 3]
-* **Aprendizaje Continuo:** Soy un profesional autodidacta, comprometido con mantenerme al día con las últimas tecnologías y tendencias. [cite: 2]
+* **Eficiencia Comprobada:** Capacidad demostrada para reducir los tiempos de desarrollo en un 30% mediante la implementación de arquitecturas escalables y reutilizables. 
+* **Compromiso con la Calidad:** Enfoque en la entrega de productos de alta calidad que superan las expectativas del usuario. 
+* **Aprendizaje Continuo:** Soy un profesional autodidacta, comprometido con mantenerme al día con las últimas tecnologías y tendencias. 
 
 ## 🛠️ Tecnologías que manejo
 
