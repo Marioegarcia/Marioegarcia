@@ -92,7 +92,7 @@ Soy un Desarrollador de Software Full Stack apasionado por crear soluciones web 
    
 
 ## 🎓 Formación Académica
-
+* Institudo de Estudios Universitarios - Licenciatura en Desarrollo de Software (en curso)
 * Universidad Abierta y a Distancia de México - Ingeniería en Desarrollo de Software (estudios parciales)
 
 ## 📚 Formación Complementaria y Certificaciones
