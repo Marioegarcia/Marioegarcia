@@ -110,10 +110,6 @@ Soy un Desarrollador de Software Full Stack apasionado por crear soluciones web 
 * **LinkedIn:** [[Tu LinkedIn](https://www.linkedin.com/in/marioE92/)]
 
 
-## 📊 Mis Estadísticas de GitHub
-
-![Profile Views](https://komarev.com/ghpvc/?username=Marioegarcia&label=Profile%20Views&color=0e75b6&style=flat)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marioegarcia&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
