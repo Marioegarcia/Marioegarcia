@@ -109,5 +109,3 @@ Soy un Desarrollador de Software Full Stack apasionado por crear soluciones web 
 * **Email:** marioptrova@gmail.com
 * **LinkedIn:** [[Tu LinkedIn](https://www.linkedin.com/in/marioE92/)]
 
-[![Top Langs](https://tu-app.vercel.app/api/top-langs/?username=Marioegarcia&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
